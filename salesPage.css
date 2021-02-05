@@ -1,0 +1,130 @@
+#header {
+    display: flex;
+    padding-top: 20px;
+    margin-top: 2px;
+}
+
+#headerLogo {
+    margin:0px 10px 0px 10px;
+    display: flex;
+    position: left;
+    border-style: solid;
+    border-width: 5px;
+    height: 120px;
+    width: 8vw;
+    margin: left;
+    align-content: center;
+    text-align: center;
+}
+
+#header #headerName {
+    border-style:dashed;
+    border-width: 1px;
+}
+
+#header #headerName h1{
+    margin-left: 5px;
+    border-style:dashed;
+    border-width: 1px;
+}
+
+#header #headerMenuDiv {
+    position:relative;
+    margin-left: 0px;
+    margin-top: 80px;
+    display: flex;
+    border: 1px;
+    border-style: dashed;
+}
+
+#header #headerName td{
+    font-size: 15px;
+    padding-left: 5px;
+    padding-right: 20px;
+}
+
+#pageContent {
+    border-style: dashed;
+    border-width: 1px;
+}
+
+#banner {
+    margin-top: 200px;
+    margin: 5px;
+    height: 300px;
+    width: 95vw;
+    display: block;
+}
+
+#bannerText {
+    text-align: center;
+    margin: auto;
+}
+
+#portfolio {
+
+}
+.projectImg {
+    border-style: solid;
+    border-width: 3px;
+    border-color: blue;
+    margin: 1px;
+    height: 200px;
+    width: 25vw;
+    display: flexbox;
+}
+
+#project {
+    display:flex;
+}
+
+.projectDescription{
+    border-style: dashed;
+    border-color: black;
+    margin: 1px;
+    height: 200px;
+    width: 50vw;
+}
+
+.techApplied{
+    border-style: dashed;
+    border-color: green;
+    margin: 1px;
+    height: 200px;
+    width: 25vw;
+}
+
+#technologies {
+    border-style: dashed;
+    border-width: 3px;
+    border-color: purple;
+    margin: 1px;
+    width: 98vw;
+    height: 300px;
+}
+
+#technologiesText {
+    text-align: center;
+    margin-top: 20px;
+    margin: auto;
+}
+
+#callToActionDiv {
+    height: 200px;
+    width: 99vw;
+    margin: 1px;
+}
+
+#callToAction {
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    margin: auto;
+    width: 10vw;
+    height: 70px;
+}
+#callToAction h3{
+    text-align: center;
+}
+
+
